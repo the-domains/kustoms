@@ -1,4 +1,20 @@
-analytics: {}
+name: 72Kustoms
+favicon: null
+layout_spectrum: 0.802364854817357
+typography_spectrum: 0.3650943254761039
+title: '72 Kustoms '
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -8,11 +24,9 @@ color:
     - '#253237'
   brandStrength: 0.41711173474385055
   lightness: 0.8867886342180282
-  rhythmicContrast: 0.7175642226025964
   saturation: 0.7582932121025531
-cta: {}
-layout_spectrum: 0.802364854817357
-name: 72Kustoms
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.3650943254761039
+  rhythmicContrast: 0.7175642226025964
+purpose:
+  - name: null
+    item: null
+    url: null
